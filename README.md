@@ -1,6 +1,6 @@
 # Netflix helper chatbot
 
-Technigo Bootcamp project week 2. Simple chatbot for series streaming platform. 
+Technigo Bootcamp project week 2. Team work with Ulrika Öhman (uohman). Simple chatbot for series streaming platform. 
 
 ## The problem
 
